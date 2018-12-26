@@ -1,0 +1,22 @@
+.magic-box {
+  box-sizing: border-box; }
+  .magic-box .wrapper {
+    margin: 20px auto 20px auto;
+    width: 400px; }
+  .magic-box_item {
+    border: 2px solid greenyellow;
+    text-align: center;
+    color: tomato;
+    font-weight: 800;
+    height: 80px;
+    padding: 0;
+    font-size: 20px; }
+    .magic-box_item span {
+      height: 0;
+      padding: 30px;
+      display: inline-block;
+      cursor: default; }
+  .magic-box_btn {
+    text-align: center; }
+
+/*# sourceMappingURL=style.css.map */
